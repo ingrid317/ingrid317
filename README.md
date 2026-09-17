@@ -40,4 +40,4 @@ Investigated how luminance contrast and chromatic saturation influence perceived
 * Led a four-person development team and incorporated findings from user interviews to refine program features
 
 
-[View project]([LINK](https://github.com/ingrid317/harp-151-project))
+[View project](https://github.com/ingrid317/harp-151-project)
