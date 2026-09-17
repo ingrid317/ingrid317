@@ -1,4 +1,4 @@
-## Hi there 👋
+<!--## Hi there 👋-->
 
 <!--
 **ingrid317/ingrid317** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi, I'm Ingrid 👋
+## Hi, I'm Ingrid 👋
 
 I'm a Psychology and Computer Science student at Binghamton University.
 
