@@ -30,7 +30,7 @@ Investigated how luminance contrast and chromatic saturation influence perceived
 * Analyzed reaction-time and accuracy data using descriptive statistics, repeated-measures ANOVAs, and paired t-tests, and created ggplot2 visualizations to identify and communicate significant differences across experimental conditions
 
 
-[View project](LINK)
+[View project](https://github.com/ingrid317/rotating_snakes_perception_lab_study)
 
 ### 🎵 Spotify Playlist Generator
 **Python · Spotify API · Web Scraping**
